@@ -1,0 +1,30 @@
+{
+  "name": "hotel-booking",
+  "version": "1.0.0",
+  "description": "hotel booking micro application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hotel-booking",
+    "expressjs",
+    "mongodb",
+    "unit-testing"
+  ],
+  "author": "Allen Emanuel Raj D",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "chai": "^4.1.2",
+    "chai-http": "^4.0.0",
+    "config": "^1.30.0",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "mocha": "^5.1.1",
+    "mongoose": "^5.0.16",
+    "morgan": "^1.9.0",
+    "request": "^2.85.0"
+  }
+}

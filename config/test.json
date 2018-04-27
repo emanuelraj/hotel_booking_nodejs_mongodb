@@ -1,0 +1,5 @@
+{
+    "DBHost" : "mongodb://localhost/hotel_application_test",
+    "port" : 8080,
+    "secret": "supersecret"
+}
